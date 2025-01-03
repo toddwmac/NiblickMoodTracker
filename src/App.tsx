@@ -18,7 +18,7 @@ function App() {
       <div className="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full mx-auto space-y-8 transform hover:shadow-2xl transition-all duration-300">
         <div className="text-center space-y-4">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            Hey, How is your day going today Pat?
+            How is your day going?
                     </h1>
         </div>
 
